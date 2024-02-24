@@ -1,3 +1,4 @@
+// day 3
 // if else
 // function hero(bullets, dragons){
 //     if(bullets / 2 >= dragons) {
